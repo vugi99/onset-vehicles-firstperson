@@ -1,0 +1,9 @@
+{
+	"author": "Voltaism",
+	"version": "1.0",
+        "onset_build": "1.2.0",
+        "client_scripts": [
+                "client/carfirst.lua"
+        ]
+
+}
